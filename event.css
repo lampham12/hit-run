@@ -1,0 +1,21 @@
+body{
+background-color: red;
+}
+:link{
+	color:hotpink ;
+	background-color: black;
+	 	
+}
+#click1,#click2:visited{
+	
+	background-color: blue;
+
+}
+#click1,#click2:hover{
+	color:green ;
+	background-color: transparent;
+}
+#click1,#click2:active{
+	color: yellow;
+	background-color: transparent;
+}
